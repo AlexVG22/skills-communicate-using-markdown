@@ -1,6 +1,6 @@
 # Daily Learning
 ## Morning Planning
-
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 ## Review
 
 ## Listas
@@ -34,4 +34,11 @@ Comando de terminal
 git clone https://github.com/skills/communicate-using-markdown
 ```
 
+## Tipos de imagenes
 
+URL relativa a una imagen en el repositorio:
+
+<img alt="Mona the Octocat" src="https://octodex.github.com/images/original.png"
+width="200" align="right">
+
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
